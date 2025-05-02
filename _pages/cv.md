@@ -8,6 +8,7 @@ redirect_from:
 ---
 
 {% include base_path %}
+<br>
 
 Professional Appointment
 ======
@@ -24,6 +25,7 @@ Professional Appointment
 * 2022.09 to 2023.05: Sessional Instructor
   * Schulich School of Engineering 
   * University of Calgary
+<br>
 
 Education
 ======
@@ -31,7 +33,7 @@ Education
 * M.Sc. in Computer Information & Technology, University of Pennsylvania, 2025
 * M.Sc. in Energy & Mineral Engineering option in Energy Management & Policy, Penn State University, 2019
 * B.Sc. in Energy Engineering, Penn State University, 2018
-
+<br>
   
 Service and Leadership
 ======
