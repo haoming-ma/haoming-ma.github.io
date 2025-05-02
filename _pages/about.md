@@ -12,14 +12,14 @@ Dr. Ma received his **Ph.D.** in [Chemical and Petroleum Engineering](https:
 
 Toward a Secure, Affordable, and Sustainable Geo‑Energy Future
 ======
-Dr. Ma develops **AI‑enabled system‑analysis toolkits**  that integrate reservoir simulation, geostatistics, machine‑learning, multi‑scale emissions measurement data, and techno‑economic & life cycle assessment (TEA/LCA) to understand the technological, economic, and environmental trade‑offs for geo‑energy systems.
+Dr. Ma develops **AI‑enabled system‑analysis toolkits**  that integrate reservoir simulation, geostatistics, machine‑learning, multi‑scale emissions measurement data, and techno‑economic & life cycle assessment (TEA/LCA) to understand the technological, economic, and environmental **trade‑offs** for geo‑energy systems.
 
 He is particularly interested in three areas:
 
-- Subsurface CO₂ utilization associated with geological sequestration
+- Subsurface **CO₂** utilization associated with geological sequestration
 
-- Methane emissions across oil‑and‑gas supply chains
+- **Methane emissions** across oil‑and‑gas supply chains
 
-- Subsurface hydrogen resources including extraction and storage
+- Subsurface **hydrogen** resources including extraction and storage
 
 Through this interdisciplinary approach, he delivers technical, socioeconomic, and policy insights that advance a secure, affordable, and sustainable energy future.
