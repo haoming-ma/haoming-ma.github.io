@@ -21,7 +21,7 @@ repository               : "academicpages/academicpages.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "profile.png"
+  avatar           : "profile.jpg"
   name             : "Haoming Ma, PhD"
   pronouns         : # example: "she/her"  
   bio              : "Research Scientist / Principal Investigator<br>Hydrogen Energy Research Center<br>School of Energy Resources<br>University of Wyoming"
