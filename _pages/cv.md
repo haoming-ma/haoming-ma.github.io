@@ -12,12 +12,10 @@ redirect_from:
 Professional Appointment
 ======
 * 2025.04 to Present: Research Scientist
-  * Hydrogen Energy Research Center 
-  * School of Energy Resources
+  * Hydrogen Energy Research Center, School of Energy Resources
   * University of Wyoming
 
 * 2023.11 to 2025.04: Post-doctoral Fellow
-  * Supervisor: [Arvind P. Ravikumar](https://www.pge.utexas.edu/faculty-and-staff/arvind-ravikumar/)
   * Hildebrand Department of Petroleum and Geosystems Engineering
   * University of Texas at Austin
 
