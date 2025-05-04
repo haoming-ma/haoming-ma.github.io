@@ -4,7 +4,7 @@ title:  "Publications"
 permalink: /publications/
 author_profile: true
 ---
-As of May 2025, Dr. Ma has authored 15 peer-reviewed journal articles, 8 of which he served as first or corresponding author, and 15 conference proceedings; his work has been cited for ~350 times with an h-index of 10 according to Google Scholar.
+As of May 2025, Dr. Ma has authored **15** peer-reviewed journal articles, **8** of which he was first or corresponding author, and **15** conference proceedings; his work has been cited for **~350** times with an h-index of **10** according to Google Scholar.
 
 Retrieve full publication list on  
 [Google Scholar](https://scholar.google.ca/citations?user=AcM1KMkAAAAJ&hl=en).
