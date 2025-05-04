@@ -24,4 +24,4 @@ He is particularly interested in three areas:
 
 Through this interdisciplinary approach, he delivers technical, socioeconomic, and policy insights that advance a secure, affordable, and sustainable energy future.
 
-*Last Update: May 2025*
+<strong><em>Last Update: May 2025</em></strong>
