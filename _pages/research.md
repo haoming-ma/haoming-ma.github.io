@@ -1,34 +1,25 @@
 ---
-layout: archive          # or "default", "single", etc. — whatever your theme uses
+layout: archive           # keep whatever layout you chose
 title:  "Research"
-permalink: /research/ # trailing slash keeps links consistent
-author_profile: true  # optional: shows sidebar/profile if the theme supports it
+permalink: /research/
+author_profile: true
 ---
 
-<style>
-/* optional polish — makes the whole summary line clickable & styled */
-details summary {
-  cursor: pointer;
-  font-weight: 600;
-  padding: 0.4em 0;
-}
-details summary::-webkit-details-marker { display: none; }  /* hides default ▶ */
-details[open] summary { color: var(--link-color); }         /* highlight active */
-</style>
+My group develops AI‑enabled modelling tool‑kits that integrate reservoir
+simulation, geostatistics, multi‑scale emission data, and TEA/LCA to resolve
+the techno‑economic and environmental trade‑offs of geo‑energy systems.
 
 <details class="accordion">
-  <summary><h3>Subsurface CO₂ Utilization & Sequestration</h3></summary>
-  <p>Put your content here – images, lists, citations, anything Markdown
-  allows.  You can keep writing paragraphs or embed figures.</p>
+  <summary>Subsurface CO₂ Utilization & Sequestration</summary>
+  <p>Put your detailed content here …</p>
 </details>
 
 <details class="accordion">
-  <summary><h3>Methane Emissions in Oil‑and‑Gas Supply Chains</h3></summary>
-  <p>Describe your measurement campaigns, AI models, key publications …</p>
+  <summary>Methane Emissions in Oil‑and‑Gas Supply Chains</summary>
+  <p>More content …</p>
 </details>
 
 <details class="accordion">
-  <summary><h3>Hydrogen Production & Underground Storage</h3></summary>
-  <p>Explain your white / blue / orange H₂ work and reservoir‑simulation
-  results …</p>
+  <summary>Hydrogen Production & Underground Storage</summary>
+  <p>More content …</p>
 </details>
