@@ -43,4 +43,6 @@ Service and Leadership
   * Guest Editor, International Journal of Coal Science & Technology
   * Reviewer, Renewable & Sustainable Energy Reviews, Applied Energy, Energy Conversion and Management, Energy, Energy Strategy Reviews, Energy Reports, Geoenergy Science and Engineering; International Journal of Greenhouse Gas Control
 <br>
+
 *Last Update: May 2025*
+======
