@@ -11,7 +11,7 @@ Retrieve full publication list on [Google Scholar](https://scholar.google.ca/cit
 ---
 
 ## Journal Articles
-[* labels corresponding authors]
+
 <details class="pub-year" open>
   <summary><strong>2025</strong></summary>
 
@@ -136,7 +136,7 @@ Retrieve full publication list on [Google Scholar](https://scholar.google.ca/cit
     “Outlook for the coal industry and new coal-production technologies.” <em>Advances in Geo-Energy Research</em>, 5 (2): 119-120.
   </p>
 </details>
-
+[Note: * labels corresponding authors]
 <script>
 /* Keep only one year open at a time */
 document.addEventListener('DOMContentLoaded', () => {
