@@ -137,6 +137,8 @@ Retrieve full publication list on [Google Scholar](https://scholar.google.ca/cit
   </p>
 </details>
 [Note: * labels corresponding authors]
+
+
 <script>
 /* Keep only one year open at a time */
 document.addEventListener('DOMContentLoaded', () => {
