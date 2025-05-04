@@ -9,7 +9,7 @@ My group develops AI-enabled modelling tool-kits that integrate reservoir
 simulation, geostatistics, multi-scale emission data, and TEA/LCA to resolve
 the techno-economic and environmental trade-offs of geo-energy systems.
 
-<details class="accordion" open>
+<details class="accordion">
   <summary><strong>Theme 1: Subsurface CO₂ Utilization &amp; Sequestration</strong></summary>
   <p>Put your detailed content for Theme 1 here…</p>
 </details>
