@@ -82,7 +82,7 @@ Retrieve my full publication list on
 <details class="pub-year">
   <summary><strong>2021</strong></summary>
   <ul>
-    <li>[J1] <b>Ma H.</b>, Chen S., Xue D., Chen Y., Chen Z.*  
+    <li>[J1]({{ '/files/J1.pdf' | relative_url }}){:target="_blank" rel="noopener"} <b>Ma H.</b>, Chen S., Xue D., Chen Y., Chen Z.*  
         “Outlook for the coal industry and new coal‑production technologies.” <em>Advances in Geo‑Energy Research</em>, 5 (2): 119‑120.</li>
   </ul>
 </details>
