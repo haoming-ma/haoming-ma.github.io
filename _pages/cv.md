@@ -11,7 +11,7 @@ redirect_from:
 
 Professional Appointment
 ======
-* 2025.04 to Present: Research Scientist
+* 2025.04 to Present: Staff Research Scientist / Principal Investigator
   * Hydrogen Energy Research Center, School of Energy Resources
   * University of Wyoming
 
