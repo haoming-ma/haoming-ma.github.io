@@ -29,7 +29,7 @@ My research systematically incorporates machine-learning algorithms and multisca
   <figure style="margin:0; text-align:center;">
     <img src="{{ '/images/Research Keywords.jpg' | relative_url }}"
          alt="Research Keywords"
-         style="display:block; width:100%; height:300px; object-fit:cover;">
+         style="display:block; width:100%; height:280px; object-fit:cover;">
     <figcaption style="margin-top:0.5rem;"><em>Research Keywords</em></figcaption>
   </figure>
 
