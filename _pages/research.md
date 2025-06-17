@@ -5,7 +5,7 @@ permalink: /research/
 author_profile: true
 ---
 <!-- ▸ Introductory video -->
-<video controls width="100%" playsinline>
+<video autoplay loop muted playsinline width="50%">
   <source src="{{ '/images/Geosystem_video.mp4' | relative_url }}" type="video/mp4">
   Your browser does not support the video tag.
 </video>
