@@ -5,9 +5,7 @@ permalink: /research/
 author_profile: true
 ---
 
-My group develops AI-enabled modelling tool-kits that integrate reservoir
-simulation, geostatistics, multi-scale emission data, and TEA/LCA to resolve
-the techno-economic and environmental trade-offs of geo-energy systems.
+My research systematically incorporates machine-learning algorithms and multiscale measurement techniques for geo-energy system analysis, coupling numerical methods with techno-economic analysis and life cycle assessment to enable the industrial-scale deployment of sustainable geo-energy extraction.
 
 <details class="accordion">
   <summary><strong>Theme 1: Subsurface CO₂ Utilization &amp; Sequestration</strong></summary>
