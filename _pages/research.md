@@ -42,7 +42,7 @@ My research systematically incorporates machine-learning algorithms and multisca
   ">
     <img src="{{ '/images/Research Keywords.jpg' | relative_url }}"
          alt="Research Keywords"
-         style="width:100%; height:300px; object-fit:contain; object-position:center;">
+         style="width:100%; height:280px; object-fit:contain; object-position:center;">
     <figcaption style="margin-top:0.5rem; text-align:center;">
       <em>Research Keywords</em>
     </figcaption>
