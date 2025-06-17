@@ -4,6 +4,11 @@ title:  "Research"
 permalink: /research/
 author_profile: true
 ---
+<!-- ▸ Introductory video -->
+<video controls width="100%" playsinline>
+  <source src="{{ '/images/Geosystem_video.mp4' | relative_url }}" type="video/mp4">
+  Your browser does not support the video tag.
+</video>
 
 My research systematically incorporates machine-learning algorithms and multiscale measurement techniques for geo-energy system analysis, coupling numerical methods with techno-economic analysis and life cycle assessment to enable the industrial-scale deployment of sustainable geo-energy extraction.
 
