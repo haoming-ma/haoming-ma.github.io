@@ -45,7 +45,7 @@ My research systematically incorporates machine-learning algorithms and multisca
   <!-- Cluster-1 figure (no caption) -->
   <img src="{{ '/images/cluster1_fig.jpg' | relative_url }}"
        alt="Cluster 1 diagram"
-       style="display:block; max-width:100%; height:auto; margin:1rem auto;">
+       style="display:block; max-width:80%; height:auto; margin:1rem auto;">
 
   <p>Put your detailed content for Theme 1 here…</p>
 </details>
