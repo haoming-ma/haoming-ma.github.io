@@ -4,41 +4,30 @@ title:  "Research"
 permalink: /research/
 author_profile: true
 ---
-<!-- ▸ Introductory video with caption underneath -->
-<figure style="width:50%; margin:auto; text-align:center;">
-  <video autoplay loop muted playsinline style="width:100%; height:auto;">
-    <source src="{{ '/images/Geosystem_video.mp4' | relative_url }}" type="video/mp4">
-    Your browser does not support the video tag.
-  </video>
-  <figcaption style="display:block; margin-top:0.5rem; text-align:center;">
-    <em>Complex Geo-Energy System Demonstration</em>
-  </figcaption>
-</figure>
-
 My research systematically incorporates machine-learning algorithms and multiscale measurement techniques for geo-energy system analysis, coupling numerical methods with techno-economic analysis and life-cycle assessment to enable the industrial-scale deployment of sustainable geo-energy extraction.
 
-<!-- ▸ Side-by-side figures with truly centered captions -->
-<div style="display:flex; gap:1rem; justify-content:center; flex-wrap:wrap;">
+<!-- ▸ Video + “Research Keywords” figure, side-by-side -->
+<div style="display:flex; gap:1.5rem; justify-content:center; align-items:flex-start; flex-wrap:wrap;">
 
-  <figure style="flex:1; min-width:250px; text-align:center;">
-    <img src="{{ '/images/research-area.jpg' | relative_url }}"
-         alt="Research Areas"
-         style="max-width:100%; height:auto; display:block; margin:0 auto;">
-    <figcaption style="margin-top:0.5rem; text-align:center;">
-      <em>Research Areas</em>
-    </figcaption>
+  <!-- Video + caption -->
+  <figure style="flex:1 1 360px; max-width:50%; text-align:center;">
+    <video autoplay loop muted playsinline style="width:100%; height:auto;">
+      <source src="{{ '/images/Geosystem_video.mp4' | relative_url }}" type="video/mp4">
+      Your browser does not support the video tag.
+    </video>
+    <figcaption style="margin-top:0.5rem;"><em>Complex Geo-Energy System Demonstration</em></figcaption>
   </figure>
 
-  <figure style="flex:1; min-width:250px; text-align:center;">
+  <!-- Research Keywords image + caption -->
+  <figure style="flex:1 1 360px; max-width:50%; text-align:center;">
     <img src="{{ '/images/Research Keywords.jpg' | relative_url }}"
          alt="Research Keywords"
          style="max-width:100%; height:auto; display:block; margin:0 auto;">
-    <figcaption style="margin-top:0.5rem; text-align:center;">
-      <em>Research Keywords</em>
-    </figcaption>
+    <figcaption style="margin-top:0.5rem;"><em>Research Keywords</em></figcaption>
   </figure>
 
 </div>
+
 
 
 <details class="accordion">
