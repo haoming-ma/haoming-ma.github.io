@@ -35,16 +35,13 @@ My research systematically incorporates machine-learning algorithms and multisca
 
 </div>
 
-
-
-
 <details class="accordion">
-  <summary><strong>Theme 1: Subsurface CO₂ Utilization &amp; Sequestration</strong></summary>
+  <summary><strong>Cluster 1: Integrated System Modeling Tool </strong></summary>
   <p>Put your detailed content for Theme 1 here…</p>
 </details>
 
 <details class="accordion">
-  <summary><strong>Theme 2: Methane Emissions in Oil-and-Gas Supply Chains</strong></summary>
+  <summary><strong>Cluster 2: Measurement-Informed Life Cycle Assessment </strong></summary>
   <p>Put your detailed content for Theme 2 here…</p>
 </details>
 
