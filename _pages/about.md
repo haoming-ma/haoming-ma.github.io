@@ -24,6 +24,6 @@ He is particularly interested in the following topics:
 
 - Enhanced **geothermal** systems
 
-Through this interdisciplinary approach, he delivers technical, socioeconomic, and policy insights that advance a secure, affordable, and sustainable energy future.
+Through this interdisciplinary effort, he delivers technical, socioeconomic, and policy insights that advance a secure, affordable, and sustainable energy future.
 
 <strong><em>Last Update: May 2025</em></strong>
