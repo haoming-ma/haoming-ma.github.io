@@ -6,24 +6,29 @@ author_profile: true
 ---
 My research systematically incorporates machine-learning algorithms and multiscale measurement techniques for geo-energy system analysis, coupling numerical methods with techno-economic analysis and life-cycle assessment to enable the industrial-scale deployment of sustainable geo-energy extraction.
 
-<!-- ▸ Video + “Research Keywords” figure, side-by-side -->
+<!-- ▸ Video + “Research Keywords” figure, equal heights -->
 <div style="display:flex; gap:1.5rem; justify-content:center; align-items:flex-start; flex-wrap:wrap;">
 
-  <!-- Video + caption -->
-  <figure style="flex:1 1 360px; max-width:50%; text-align:center;">
-    <video autoplay loop muted playsinline style="width:100%; height:auto;">
+  <!-- Video -->
+  <figure style="flex:1 1 360px; max-width:50%; text-align:center; margin:0;">
+    <video autoplay loop muted playsinline
+           style="width:100%; height:300px; object-fit:cover; display:block;">
       <source src="{{ '/images/Geosystem_video.mp4' | relative_url }}" type="video/mp4">
       Your browser does not support the video tag.
     </video>
-    <figcaption style="margin-top:0.5rem;"><em>Complex Geo-Energy System Demonstration</em></figcaption>
+    <figcaption style="margin-top:0.5rem; text-align:center;">
+      <em>Complex Geo-Energy System Demonstration</em>
+    </figcaption>
   </figure>
 
-  <!-- Research Keywords image + caption -->
-  <figure style="flex:1 1 360px; max-width:50%; text-align:center;">
+  <!-- Image -->
+  <figure style="flex:1 1 360px; max-width:50%; text-align:center; margin:0;">
     <img src="{{ '/images/Research Keywords.jpg' | relative_url }}"
          alt="Research Keywords"
-         style="max-width:100%; height:auto; display:block; margin:0 auto;">
-    <figcaption style="margin-top:0.5rem;"><em>Research Keywords</em></figcaption>
+         style="width:100%; height:300px; object-fit:cover; display:block;">
+    <figcaption style="margin-top:0.5rem; text-align:center;">
+      <em>Research Keywords</em>
+    </figcaption>
   </figure>
 
 </div>
