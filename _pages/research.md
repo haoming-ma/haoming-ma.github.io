@@ -6,6 +6,7 @@ author_profile: true
 ---
 My research systematically incorporates machine-learning algorithms and multiscale measurement techniques for geo-energy system analysis, coupling numerical methods with techno-economic analysis and life-cycle assessment to enable the industrial-scale deployment of sustainable geo-energy extraction.
 
+
 <!-- ▸ Video + “Research Keywords” figure, equal heights & aligned captions -->
 <div style="
      display:grid;
