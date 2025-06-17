@@ -12,7 +12,28 @@ Dr. Ma received his **Ph.D.** in [Chemical and Petroleum Engineering](https:
 
 Toward a Secure, Affordable, and Sustainable Geo‑Energy Future
 ======
-Dr. Ma's research interest lies in developing **Geo-Energy System Modeling and Analysis toolkits**  powered by machine learning algorithms and multiscale remote sensing data. His work addressed the interdisciplinary challenges in understanding the technological, economic, and environmental **trade‑offs** for geo‑energy systems.
+<!-- ▸ Research Areas image + description side-by-side -->
+<div style="display:flex; gap:1.5rem; justify-content:center; align-items:center; flex-wrap:wrap;">
+
+  <!-- Image -->
+  <figure style="flex:1 1 360px; max-width:45%; text-align:center;">
+    <img src="{{ '/images/research-areas.jpg' | relative_url }}"
+         alt="Research Areas"
+         style="max-width:100%; height:auto; display:block; margin:0 auto;">
+    <figcaption style="margin-top:0.5rem;"><em>Research Areas</em></figcaption>
+  </figure>
+
+  <!-- Description text -->
+  <div style="flex:1 1 360px; max-width:45%; font-size:1rem; line-height:1.5;">
+    Dr. Ma&rsquo;s research interest lies in developing
+    <strong>Geo-Energy System Modeling and Analysis toolkits</strong> powered by
+    machine-learning algorithms and multiscale remote-sensing data. His work addresses
+    the interdisciplinary challenges of understanding the technological, economic, and
+    environmental <strong>trade-offs</strong> inherent in geo-energy systems.
+  </div>
+
+</div>
+
 
 He is particularly interested in the following topics:
 
