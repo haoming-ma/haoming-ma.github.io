@@ -44,7 +44,7 @@ My research systematically incorporates machine-learning algorithms and multisca
          alt="Research Keywords"
          style="width:100%; height:280px; object-fit:contain; object-position:center;">
     <figcaption style="margin-top:0.5rem; text-align:center;">
-      <em>Research Keywords</em>
+      <em>Keywords</em>
     </figcaption>
   </figure>
 
