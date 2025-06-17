@@ -17,13 +17,14 @@ author_profile: true
 
 My research systematically incorporates machine-learning algorithms and multiscale measurement techniques for geo-energy system analysis, coupling numerical methods with techno-economic analysis and life-cycle assessment to enable the industrial-scale deployment of sustainable geo-energy extraction.
 
-<!-- ▸ Side-by-side figures with centered captions -->
+<!-- ▸ Side-by-side figures with truly centered captions -->
 <div style="display:flex; gap:1rem; justify-content:center; flex-wrap:wrap;">
+
   <figure style="flex:1; min-width:250px; text-align:center;">
-    <img src="{{ '/images/research-areas.jpg' | relative_url }}"
+    <img src="{{ '/images/research-area.jpg' | relative_url }}"
          alt="Research Areas"
-         style="max-width:100%; height:auto;">
-    <figcaption style="display:block; margin-top:0.5rem; text-align:center;">
+         style="max-width:100%; height:auto; display:block; margin:0 auto;">
+    <figcaption style="margin-top:0.5rem; text-align:center;">
       <em>Research Areas</em>
     </figcaption>
   </figure>
@@ -31,11 +32,12 @@ My research systematically incorporates machine-learning algorithms and multisca
   <figure style="flex:1; min-width:250px; text-align:center;">
     <img src="{{ '/images/Research Keywords.jpg' | relative_url }}"
          alt="Research Keywords"
-         style="max-width:100%; height:auto;">
-    <figcaption style="display:block; margin-top:0.5rem; text-align:center;">
+         style="max-width:100%; height:auto; display:block; margin:0 auto;">
+    <figcaption style="margin-top:0.5rem; text-align:center;">
       <em>Research Keywords</em>
     </figcaption>
   </figure>
+
 </div>
 
 
