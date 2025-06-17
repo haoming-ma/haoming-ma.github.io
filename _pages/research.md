@@ -6,32 +6,35 @@ author_profile: true
 ---
 My research systematically incorporates machine-learning algorithms and multiscale measurement techniques for geo-energy system analysis, coupling numerical methods with techno-economic analysis and life-cycle assessment to enable the industrial-scale deployment of sustainable geo-energy extraction.
 
-<!-- ▸ Video + “Research Keywords” figure, equal heights -->
-<div style="display:flex; gap:1.5rem; justify-content:center; align-items:flex-start; flex-wrap:wrap;">
+<!-- ▸ Video + “Research Keywords” figure, equal heights & aligned captions -->
+<div style="
+     display:grid;
+     grid-template-columns:repeat(auto-fit,minmax(360px,1fr));
+     gap:1.5rem;
+     justify-items:center;
+     align-items:start;   /* keeps the two tiles top-aligned */
+">
 
   <!-- Video -->
-  <figure style="flex:1 1 360px; max-width:50%; text-align:center; margin:0;">
+  <figure style="margin:0; text-align:center;">
     <video autoplay loop muted playsinline
-           style="width:100%; height:300px; object-fit:cover; display:block;">
+           style="display:block; width:100%; height:300px; object-fit:cover;">
       <source src="{{ '/images/Geosystem_video.mp4' | relative_url }}" type="video/mp4">
       Your browser does not support the video tag.
     </video>
-    <figcaption style="margin-top:0.5rem; text-align:center;">
-      <em>Complex Geo-Energy System Demonstration</em>
-    </figcaption>
+    <figcaption style="margin-top:0.5rem;"><em>Complex Geo-Energy System Demonstration</em></figcaption>
   </figure>
 
   <!-- Image -->
-  <figure style="flex:1 1 360px; max-width:50%; text-align:center; margin:0;">
+  <figure style="margin:0; text-align:center;">
     <img src="{{ '/images/Research Keywords.jpg' | relative_url }}"
          alt="Research Keywords"
-         style="width:100%; height:300px; object-fit:cover; display:block;">
-    <figcaption style="margin-top:0.5rem; text-align:center;">
-      <em>Research Keywords</em>
-    </figcaption>
+         style="display:block; width:100%; height:300px; object-fit:cover;">
+    <figcaption style="margin-top:0.5rem;"><em>Research Keywords</em></figcaption>
   </figure>
 
 </div>
+
 
 
 
