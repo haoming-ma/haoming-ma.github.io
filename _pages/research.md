@@ -7,36 +7,49 @@ author_profile: true
 My research systematically incorporates machine-learning algorithms and multiscale measurement techniques for geo-energy system analysis, coupling numerical methods with techno-economic analysis and life-cycle assessment to enable the industrial-scale deployment of sustainable geo-energy extraction.
 
 
-<!-- ▸ Video + “Research Keywords” figure, equal heights & aligned captions -->
+<!-- ▸ Video + “Research Keywords” figure, equal heights & perfectly centered captions -->
 <div style="
      display:grid;
      grid-template-columns:repeat(auto-fit,minmax(360px,1fr));
      gap:1.5rem;
-     justify-items:center;
+     justify-items:center;   /* center each figure inside its grid cell */
      align-items:start;
 ">
 
   <!-- Video -->
-  <figure style="margin:0; text-align:center;">
+  <figure style="
+        margin:0;
+        display:flex;              /* stack media + caption vertically */
+        flex-direction:column;
+        align-items:center;        /* horizontally center child elements */
+  ">
     <video autoplay loop muted playsinline
-           style="display:block; width:100%; height:300px;
-                  object-fit:contain; object-position:center;">
+           style="width:100%; height:300px; object-fit:contain; object-position:center;">
       <source src="{{ '/images/Geosystem_video.mp4' | relative_url }}" type="video/mp4">
       Your browser does not support the video tag.
     </video>
-    <figcaption style="margin-top:0.5rem;"><em>Complex Geo-Energy System Demonstration</em></figcaption>
+    <figcaption style="margin-top:0.5rem; text-align:center;">
+      <em>Complex Geo-Energy System Demonstration</em>
+    </figcaption>
   </figure>
 
   <!-- Image -->
-  <figure style="margin:0; text-align:center;">
+  <figure style="
+        margin:0;
+        display:flex;
+        flex-direction:column;
+        align-items:center;
+  ">
     <img src="{{ '/images/Research Keywords.jpg' | relative_url }}"
          alt="Research Keywords"
-         style="display:block; width:100%; height:280px;
-                object-fit:contain; object-position:center;">
-    <figcaption style="margin-top:0.5rem;"><em>Research Keywords</em></figcaption>
+         style="width:100%; height:300px; object-fit:contain; object-position:center;">
+    <figcaption style="margin-top:0.5rem; text-align:center;">
+      <em>Research Keywords</em>
+    </figcaption>
   </figure>
 
 </div>
+
 
 
 <details class="accordion">
