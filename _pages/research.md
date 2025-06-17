@@ -20,7 +20,7 @@ My research systematically incorporates machine-learning algorithms and multisca
 <!-- ▸ Side-by-side figures with centered captions -->
 <div style="display:flex; gap:1rem; justify-content:center; flex-wrap:wrap;">
   <figure style="flex:1; min-width:250px; text-align:center;">
-    <img src="{{ '/images/Research Area.jpg' | relative_url }}"
+    <img src="{{ '/images/research-areas.jpg' | relative_url }}"
          alt="Research Areas"
          style="max-width:100%; height:auto;">
     <figcaption style="display:block; margin-top:0.5rem; text-align:center;">
