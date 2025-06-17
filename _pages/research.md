@@ -13,13 +13,14 @@ My research systematically incorporates machine-learning algorithms and multisca
      grid-template-columns:repeat(auto-fit,minmax(360px,1fr));
      gap:1.5rem;
      justify-items:center;
-     align-items:start;   /* keeps the two tiles top-aligned */
+     align-items:start;
 ">
 
   <!-- Video -->
   <figure style="margin:0; text-align:center;">
     <video autoplay loop muted playsinline
-           style="display:block; width:100%; height:300px; object-fit:cover;">
+           style="display:block; width:100%; height:300px;
+                  object-fit:contain; object-position:center;">
       <source src="{{ '/images/Geosystem_video.mp4' | relative_url }}" type="video/mp4">
       Your browser does not support the video tag.
     </video>
@@ -30,11 +31,13 @@ My research systematically incorporates machine-learning algorithms and multisca
   <figure style="margin:0; text-align:center;">
     <img src="{{ '/images/Research Keywords.jpg' | relative_url }}"
          alt="Research Keywords"
-         style="display:block; width:100%; height:280px; object-fit:cover;">
+         style="display:block; width:100%; height:280px;
+                object-fit:contain; object-position:center;">
     <figcaption style="margin-top:0.5rem;"><em>Research Keywords</em></figcaption>
   </figure>
 
 </div>
+
 
 <details class="accordion">
   <summary><strong>Cluster 1: Integrated System Modeling Tool </strong></summary>
