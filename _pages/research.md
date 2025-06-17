@@ -10,7 +10,7 @@ author_profile: true
     <source src="{{ '/images/Geosystem_video.mp4' | relative_url }}" type="video/mp4">
     Your browser does not support the video tag.
   </video>
-  <figcaption style="display:block; margin-top:0.5rem;">
+  <figcaption style="display:block; margin-top:0.5rem; text-align:center;">
     <em>Complex Geo-Energy System Demonstration</em>
   </figcaption>
 </figure>
