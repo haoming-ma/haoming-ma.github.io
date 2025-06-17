@@ -40,9 +40,16 @@ My research systematically incorporates machine-learning algorithms and multisca
 
 
 <details class="accordion">
-  <summary><strong>Cluster 1: Integrated System Modeling Tool </strong></summary>
+  <summary><strong>Cluster 1: Integrated System Modeling Tool</strong></summary>
+
+  <!-- Cluster-1 figure (no caption) -->
+  <img src="{{ '/images/cluster1_fig.jpg' | relative_url }}"
+       alt="Cluster 1 diagram"
+       style="display:block; max-width:100%; height:auto; margin:1rem auto;">
+
   <p>Put your detailed content for Theme 1 here…</p>
 </details>
+
 
 <details class="accordion">
   <summary><strong>Cluster 2: Measurement-Informed Life Cycle Assessment </strong></summary>
