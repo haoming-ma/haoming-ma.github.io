@@ -49,10 +49,6 @@ My research systematically incorporates machine-learning algorithms and multisca
   <p>Put your detailed content for Theme 2 here…</p>
 </details>
 
-<details class="accordion">
-  <summary><strong>Theme 3: Hydrogen Production & Underground Storage</strong></summary>
-  <p>Put your detailed content for Theme 3 here…</p>
-</details>
 
 <script>
 document.addEventListener('DOMContentLoaded', () => {
