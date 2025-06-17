@@ -29,7 +29,7 @@ Toward a Secure, Affordable, and Sustainable Geo‑Energy Future
     <strong>Geo-Energy System Modeling and Analysis toolkits</strong> powered by
     machine-learning algorithms and multiscale remote-sensing data. His work addresses
     the interdisciplinary challenges of understanding the technological, economic, and
-    environmental <strong>trade-offs</strong> inherent in geo-energy systems.
+    environmental <strong>trade-offs</strong> within the geo-energy systems.
   </div>
 
 </div>
