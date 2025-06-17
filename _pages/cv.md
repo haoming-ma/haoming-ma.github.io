@@ -16,6 +16,7 @@ Professional Appointment
   * University of Wyoming
 
 * 2023.11 to 2025.04: Post-doctoral Fellow
+  * Center for Energy and Environmental Systems Analysis
   * Hildebrand Department of Petroleum and Geosystems Engineering
   * University of Texas at Austin
 
@@ -37,6 +38,7 @@ Service and Leadership
 * Conference Technical Committee
   * SPE ATCE 2025
 * Conference Session Chairs
+  * SPE ATCE 2025
   * AGU Annual Meeting 2025
   * AGU Annual Meeting 2024 (two sessions)
 * Editorial Board
