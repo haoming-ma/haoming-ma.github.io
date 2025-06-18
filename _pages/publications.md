@@ -158,35 +158,35 @@ See the full, automatically updated list on
 <details>
   <summary><h2 style="display:inline;">Conference Proceedings</h2></summary>
 <br>
-  <p><strong>[C15]</strong> <strong>Ma, H.</strong>, Zhu, Y., Long, W., Masnadi, M., Heath, G., Balcombe, P., Ravikumar, A. P. <strong>(2025)</strong> Measurement-informed, geospatial life-cycle GHG emissions of global liquefied-natural-gas supply chains. ACS Spring 2025, San Diego, CA, USA, Mar 23-27.</p>
+  <p>[C15] <strong>Ma, H.</strong>, Zhu, Y., Long, W., Masnadi, M., Heath, G., Balcombe, P., Ravikumar, A. P. (2025) Measurement-informed, geospatial life-cycle GHG emissions of global liquefied-natural-gas supply chains. ACS Spring 2025, San Diego, CA, USA, Mar 23-27.</p>
 
-  <p><strong>[C14]</strong> Xue, Z., <strong>Ma, H.</strong>, Chen, Z. <strong>(2024)</strong> Combining geothermal-energy recovery and carbon sequestration in EGS using different working fluids. AGU 24, Washington, D.C., USA, Dec 9-13.</p>
+  <p>[C14] Xue, Z., <strong>Ma, H.</strong>, Chen, Z. (2024) Combining geothermal-energy recovery and carbon sequestration in EGS using different working fluids. AGU 24, Washington, D.C., USA, Dec 9-13.</p>
 
-  <p><strong>[C13]</strong> <strong>Ma, H.</strong>, Xue, Z., Yang, Y., Chen, Z. <strong>(2024)</strong> System assessment of CO<sub>2</sub>-enhanced coal-bed-methane production in Mannville, Canada. AGU 24, Washington, D.C., USA, Dec 9-13.</p>
+  <p>[C13] <strong>Ma, H.</strong>, Xue, Z., Yang, Y., Chen, Z. (2024) System assessment of CO<sub>2</sub>-enhanced coal-bed-methane production in Mannville, Canada. AGU 24, Washington, D.C., USA, Dec 9-13.</p>
 
-  <p><strong>[C12]</strong> <strong>Ma, H.</strong>, Tullos, E., Lyon, D., Gupta, S., Ravikumar, A. P. <strong>(2024)</strong> Discrepancy in intermittency-accounting methods of methane emissions from aerial surveys of oil and gas facilities. AGU 24, Washington, D.C., USA, Dec 9-13.</p>
+  <p>[C12] <strong>Ma, H.</strong>, Tullos, E., Lyon, D., Gupta, S., Ravikumar, A. P. (2024) Discrepancy in intermittency-accounting methods of methane emissions from aerial surveys of oil and gas facilities. AGU 24, Washington, D.C., USA, Dec 9-13.</p>
 
-  <p><strong>[C11]</strong> <strong>Ma, H.</strong>, Xue, Z., Yang, Y., Chen, Z. <strong>(2024)</strong> Environmental cost of large-scale underground hydrogen storage in saline aquifers. AGU 24, Washington, D.C., USA, Dec 9-13.</p>
+  <p>[C11] <strong>Ma, H.</strong>, Xue, Z., Yang, Y., Chen, Z. (2024) Environmental cost of large-scale underground hydrogen storage in saline aquifers. AGU 24, Washington, D.C., USA, Dec 9-13.</p>
 
-  <p><strong>[C10]</strong> <strong>Ma, H.</strong>, Zhu, Y., Long, W., Masnadi, M., Heath, G., Balcombe, P., Ravikumar, A. P. <strong>(2024)</strong> Measurement-informed, geospatial life-cycle GHG emissions of global LNG supply chains. Energy Emissions Modeling &amp; Data Lab 2024 Annual Event, Austin, TX, USA, Oct 22-23.</p>
+  <p>[C10] <strong>Ma, H.</strong>, Zhu, Y., Long, W., Masnadi, M., Heath, G., Balcombe, P., Ravikumar, A. P. (2024) Measurement-informed, geospatial life-cycle GHG emissions of global LNG supply chains. Energy Emissions Modeling &amp; Data Lab 2024 Annual Event, Austin, TX, USA, Oct 22-23.</p>
 
-  <p><strong>[C9]</strong> <strong>Ma, H.</strong>, Chen, Z., McCoy, S. T. <strong>(2024)</strong> Motivating CO<sub>2</sub>-EOR to geologic carbon storage via integrated techno-economic and life-cycle assessments. GHGT-17, Calgary, Canada, Oct 20-24.</p>
+  <p>[C9] <strong>Ma, H.</strong>, Chen, Z., McCoy, S. T. (2024) Motivating CO<sub>2</sub>-EOR to geologic carbon storage via integrated techno-economic and life-cycle assessments. GHGT-17, Calgary, Canada, Oct 20-24.</p>
 
-  <p><strong>[C8]</strong> <strong>Ma, H.</strong>, An, K., Nabil, S. K., Kibria, M. G., McCoy, S. T. <strong>(2024)</strong> Uncertainty analysis of CO<sub>2</sub>-ethanol-synthetic aviation-fuel pathways. GHGT-17, Calgary, Canada, Oct 20-24.</p>
+  <p>[C8] <strong>Ma, H.</strong>, An, K., Nabil, S. K., Kibria, M. G., McCoy, S. T. (2024) Uncertainty analysis of CO<sub>2</sub>-ethanol-synthetic aviation-fuel pathways. GHGT-17, Calgary, Canada, Oct 20-24.</p>
 
-  <p><strong>[C7]</strong> Xue, Z., <strong>Ma, H.</strong>, Chen, Z. <strong>(2024)</strong> Integration of geothermal-energy recovery and carbon sequestration in an EGS by CO<sub>2</sub>-water mixtures. SPE Western Regional Meeting, Palo Alto, CA, USA, Apr 16-18.</p>
+  <p>[C7] Xue, Z., <strong>Ma, H.</strong>, Chen, Z. (2024) Integration of geothermal-energy recovery and carbon sequestration in an EGS by CO<sub>2</sub>-water mixtures. SPE Western Regional Meeting, Palo Alto, CA, USA, Apr 16-18.</p>
 
-  <p><strong>[C6]</strong> <strong>Ma, H.</strong>, Yang, Y., Xue, Z., Chen, Z. <strong>(2023)</strong> Techno-economic feasibility of CO<sub>2</sub> storage associated with enhanced coal-bed-methane production: Mannville coal case study. CSChE 2023, Calgary, Canada, Oct 29 – Nov 1.</p>
+  <p>[C6] <strong>Ma, H.</strong>, Yang, Y., Xue, Z., Chen, Z. (2023) Techno-economic feasibility of CO<sub>2</sub> storage associated with enhanced coal-bed-methane production: Mannville coal case study. CSChE 2023, Calgary, Canada, Oct 29 – Nov 1.</p>
 
-  <p><strong>[C5]</strong> Song, Y., Song, Z., Meng, Y., <strong>Ma, H.</strong>, Chen, Z., Zhang, Y., Zhang, L., Feng, D. <strong>(2023)</strong> Effect of CO<sub>2</sub> dissolution on fluid flow and phase behaviour in oil-water systems in shale reservoirs. URTeC, Denver, CO, USA, Jun 13-15.</p>
+  <p>[C5] Song, Y., Song, Z., Meng, Y., <strong>Ma, H.</strong>, Chen, Z., Zhang, Y., Zhang, L., Feng, D. (2023) Effect of CO<sub>2</sub> dissolution on fluid flow and phase behaviour in oil-water systems in shale reservoirs. URTeC, Denver, CO, USA, Jun 13-15.</p>
 
-  <p><strong>[C4]</strong> <strong>Ma, H.</strong>, Yang, Y., Xue, Z., Chen, Z.* <strong>(2023)</strong> Comparative machine-learning frameworks for forecasting CO<sub>2</sub>/CH<sub>4</sub> competitive adsorption ratio in shale. SPE Western Regional Meeting, Anchorage, AK, USA, May 22-25.</p>
+  <p>[C4] <strong>Ma, H.</strong>, Yang, Y., Xue, Z., Chen, Z.* (2023) Comparative machine-learning frameworks for forecasting CO<sub>2</sub>/CH<sub>4</sub> competitive adsorption ratio in shale. SPE Western Regional Meeting, Anchorage, AK, USA, May 22-25.</p>
 
-  <p><strong>[C3]</strong> Xue, Z., <strong>Ma, H.</strong>, Chen, Z.* <strong>(2023)</strong> Numerical investigation of energy production from an enhanced geothermal system associated with CO<sub>2</sub> sequestration. SPE Western Regional Meeting, Anchorage, AK, USA, May 22-25.</p>
+  <p>[C3] Xue, Z., <strong>Ma, H.</strong>, Chen, Z.* (2023) Numerical investigation of energy production from an enhanced geothermal system associated with CO<sub>2</sub> sequestration. SPE Western Regional Meeting, Anchorage, AK, USA, May 22-25.</p>
 
-  <p><strong>[C2]</strong> <strong>Ma, H.</strong>, McCoy, S. T.*, Chen, Z.* <strong>(2022)</strong> Economic and engineering co-optimization of CO<sub>2</sub> storage and oil recovery. GHGT-16, Lyon, France, Oct 23-27.</p>
+  <p>[C2] <strong>Ma, H.</strong>, McCoy, S. T.*, Chen, Z.* (2022) Economic and engineering co-optimization of CO<sub>2</sub> storage and oil recovery. GHGT-16, Lyon, France, Oct 23-27.</p>
 
-  <p><strong>[C1]</strong> Liu, H.*, Cui, L., Liu, Z., Zhou, C., Yao, M., <strong>Ma, H.</strong>, Liu, Q. <strong>(2022)</strong> Machine-learning optimisation of well-stimulation design in heterogeneous naturally fractured tight reservoirs. SPE Canadian Energy Technology Conference, Calgary, Canada, Mar 16-17.</p>
+  <p>[C1] Liu, H.*, Cui, L., Liu, Z., Zhou, C., Yao, M., <strong>Ma, H.</strong>, Liu, Q. (2022) Machine-learning optimisation of well-stimulation design in heterogeneous naturally fractured tight reservoirs. SPE Canadian Energy Technology Conference, Calgary, Canada, Mar 16-17.</p>
 </details>
 
 [Note: * denotes corresponding author]
