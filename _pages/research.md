@@ -62,7 +62,7 @@ My research systematically incorporates machine-learning algorithms and multisca
   <img src="{{ '/images/cluster1_fig.jpg' | relative_url }}"
        alt="Cluster 1 diagram"
        style="max-width:80%; height:auto; display:block; margin:0 auto;">
-  <figcaption style="margin-top:0.5rem;">
+  <figcaption style="margin-top:0.5rem; text-align:center;">
     <em>Schematic Overview of GESM</em>
   </figcaption>
 </figure>
