@@ -32,7 +32,16 @@ Education
 * M.Sc. in Energy & Mineral Engineering option in Energy Management & Policy, Penn State University, 2019
 * B.Sc. in Energy Engineering, Penn State University, 2018
 <br>
-  
+
+Selected Awards
+======
+* Best Paper Award, Frontiers in Energy, 2024
+* SPE Canadian Educational Foundation General Scholarship, Society of Petroleum Engineers Educational Foundation, 2024
+* Alberta Graduate Excellence Scholarship, Province of Alberta, 2022
+* Chemical & Petroleum Engineering Graduate Excellence Award, University of Calgary, 2022
+* Outstanding Graduate Teaching Assistant Award, Penn State University, 2018
+<br>
+
 Service and Leadership
 ======
 * Conference Technical Committee
