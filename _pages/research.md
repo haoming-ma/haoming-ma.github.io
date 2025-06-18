@@ -54,13 +54,15 @@ My research systematically incorporates machine-learning algorithms and multisca
 
 <details class="accordion">
   <summary><strong>Cluster 1: Integrated System Modeling Tool</strong></summary>
-
+     
+  <p>I lead efforts to develop a Geo-Energy System Modeling (GESM) toolkit that addresses two key knowledge gaps: the disconnect between simulations of surface and subsurface engineering activities and the lack of integration between techno-economic analysis (TEA) and life-cycle assessment (LCA). By constructing data-enriched reduced-order models (ROMs) with machine-learning algorithms that accurately predict reservoir performance, I combine these ROMs with process-level mass and energy balance estimates to create an integrated platform for unified TEA LCA evaluation. This end-to-end integration quantifies economic and environmental outcomes concurrently, clarifying the socio-economic trade-offs associated with emerging innovations. The GESM toolkit has already been deployed at industrial scale to assess subsurface CO2 utilization and storage processes, including CO2-enhanced oil recovery (CO2-EOR), CO2-enhanced shale-gas recovery (CO2-ESGR), and CO2-enhanced coalbed methane recovery (CO2-ECBM), as well as enhanced geothermal systems and underground hydrogen storage.</p>
+     
   <!-- Cluster-1 figure, left-aligned -->
   <img src="{{ '/images/cluster1_fig.jpg' | relative_url }}"
        alt="Cluster 1 diagram"
        style="display:block; max-width:80%; height:auto; margin:1rem 0;">  <!-- left-aligned -->
 
-  <p>Put your detailed content for Theme 1 here…</p>
+
 </details>
 
 
