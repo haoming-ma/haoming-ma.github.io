@@ -7,7 +7,7 @@ author_profile: true
 
 As of **June 2025**, Dr. Ma has authored or co-authored **18** peer-reviewed journal articles (including **10** as first or corresponding author) and **15** conference proceedings; his work has been cited **~400** times, with an h-index of **11**.
 
-Retrieve the full publication list on [Google Scholar](https://scholar.google.ca/citations?user=AcM1KMkAAAAJ&hl=en).
+Retrieve full publication list on [Google Scholar](https://scholar.google.ca/citations?user=AcM1KMkAAAAJ&hl=en).
 
 ---
 
