@@ -4,7 +4,7 @@ title:  "Research"
 permalink: /research/
 author_profile: true
 ---
-My research systematically incorporates machine-learning algorithms and multiscale measurement techniques for geo-energy system analysis, coupling numerical methods with techno-economic analysis (TEA) and life cycle assessment (LCA) to enable the industrial-scale deployment of sustainable geo-energy extraction.
+My research systematically incorporates machine-learning algorithms and multiscale measurement techniques for developing geo-energy system modeling and analysis tools, coupling numerical methods with techno-economic analysis (TEA) and life cycle assessment (LCA) to enable the industrial-scale deployment of sustainable geo-energy extraction.
 
 
 <!-- ▸ Video + “Research Keywords” figure, equal heights & perfectly centered captions -->
@@ -76,13 +76,17 @@ My research systematically incorporates machine-learning algorithms and multisca
 
 <details class="accordion">
   <summary><strong>Cluster 2: Measurement-Informed Life Cycle Assessment</strong></summary>
-
-  <!-- Cluster-2 figure, left-aligned -->
+  <p>I developed a Geospatial Measurement-Informed Life Cycle Assessment (GMLCA) framework that leverages both bottom-up and top-down methane emission data acquired from multiscale remote sensing techniques. Addressing the communication gap between measurement-based methane inventories and national greenhouse gas emission inventories (GHGEI), this framework reconciles discrepancies by explicitly accounting for the intermittent emissions from super-emitters captured in top-down aerial surveys of global LNG supply chains. By applying GMLCA, I concluded that the GHG emissions of the international LNG trade were underestimated by up to 33% in 2023. This framework is now being extended to the blue hydrogen supply chains associated with steam methane reforming (SMR).</p>
+  
+<!-- Cluster-2 figure, centred with caption -->
+<figure style="margin:1rem auto; max-width:80%; text-align:center;">
   <img src="{{ '/images/cluster2_fig.jpg' | relative_url }}"
-       alt="Cluster 2 diagram"
-       style="display:block; max-width:80%; height:auto; margin:1rem 0;">
-
-  <p>Put your detailed content for Theme 2 here…</p>
+       alt="Schematic Overview of GMLCA"
+       style="width:100%; height:auto; display:block;">
+  <figcaption style="margin-top:0.5rem; text-align:center;">
+    <em>Schematic Overview of GMLCA</em>
+  </figcaption>
+</figure>
 </details>
 
 
