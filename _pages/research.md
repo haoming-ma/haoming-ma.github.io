@@ -98,7 +98,7 @@ document.addEventListener('DOMContentLoaded', () => {
     acc.addEventListener('toggle', () => {
       if (acc.open) {
         accordions.forEach((other) => {
-          if (other !== acc) other.open = false;
+          if (other !== acc) other.open = true;
         });
       }
     });
