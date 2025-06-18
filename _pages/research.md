@@ -4,7 +4,7 @@ title:  "Research"
 permalink: /research/
 author_profile: true
 ---
-My research systematically incorporates machine-learning algorithms and multiscale measurement techniques for geo-energy system analysis, coupling numerical methods with techno-economic analysis and life-cycle assessment to enable the industrial-scale deployment of sustainable geo-energy extraction.
+My research systematically incorporates machine-learning algorithms and multiscale measurement techniques for geo-energy system analysis, coupling numerical methods with techno-economic analysis (TEA) and life cycle assessment (LCA) to enable the industrial-scale deployment of sustainable geo-energy extraction.
 
 
 <!-- ▸ Video + “Research Keywords” figure, equal heights & perfectly centered captions -->
@@ -55,7 +55,7 @@ My research systematically incorporates machine-learning algorithms and multisca
 <details class="accordion">
   <summary><strong>Cluster 1: Integrated System Modeling Tool</strong></summary>
      
-  <p>I lead efforts to develop a Geo-Energy System Modeling (GESM) toolkit that addresses two key knowledge gaps: the disconnect between simulations of surface and subsurface engineering activities and the lack of integration between techno-economic analysis (TEA) and life-cycle assessment (LCA). By constructing data-enriched reduced-order models (ROMs) with machine-learning algorithms that accurately predict reservoir performance, I combine these ROMs with process-level mass and energy balance estimates to create an integrated platform for unified TEA LCA evaluation. This end-to-end integration quantifies economic and environmental outcomes concurrently, clarifying the socio-economic trade-offs associated with emerging innovations. The GESM toolkit has already been deployed at industrial scale to assess subsurface CO2 utilization and storage processes, including CO2-enhanced oil recovery (CO2-EOR), CO2-enhanced shale-gas recovery (CO2-ESGR), and CO2-enhanced coalbed methane recovery (CO2-ECBM), as well as enhanced geothermal systems and underground hydrogen storage.</p>
+  <p>I lead efforts to develop a Geo-Energy System Modeling (GESM) toolkit that addresses two key knowledge gaps: the disconnect between simulations of surface and subsurface engineering activities and the lack of integration between TEA and LCA. By constructing data-enriched reduced-order models (ROMs) with machine-learning algorithms that accurately predict reservoir performance, I combine these ROMs with process-level mass and energy balance estimates to create an integrated platform for unified TEA and LCA evaluation. This end-to-end integration quantifies economic and environmental outcomes concurrently, clarifying the socio-economic trade-offs associated with emerging innovations. The GESM toolkit has already been deployed at industrial scale to assess geological carbon utilization and storage processes, including CO$_2$-enhanced oil recovery (CO$_2$-EOR), CO$_2$-enhanced shale-gas recovery (CO$_2$-ESGR), and CO$_2$-enhanced coalbed methane recovery (CO$_2$-ECBM), as well as enhanced geothermal systems and underground hydrogen storage.</p>
      
 <!-- Cluster-1 figure, centered with caption -->
 <figure style="text-align:center; margin:1rem 0;">
