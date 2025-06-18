@@ -156,7 +156,7 @@ See the full, automatically updated list on
 ---
 
 <details>
-  <summary><strong>Conference Proceedings</strong></summary>
+  <summary><h2 style="display:inline;">Conference Proceedings</h2></summary>
 <br>
   <p><strong>[C15]</strong> <strong>Ma, H.</strong>, Zhu, Y., Long, W., Masnadi, M., Heath, G., Balcombe, P., Ravikumar, A. P. <strong>(2025)</strong> Measurement-informed, geospatial life-cycle GHG emissions of global liquefied-natural-gas supply chains. ACS Spring 2025, San Diego, CA, USA, Mar 23-27.</p>
 
