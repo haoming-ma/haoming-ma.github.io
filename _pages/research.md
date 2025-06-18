@@ -58,19 +58,18 @@ My research systematically incorporates machine-learning algorithms and multisca
   <p>
     I lead efforts to develop a Geo-Energy System Modeling&nbsp;(GESM) toolkit that addresses two key knowledge gaps: the disconnect between simulations of surface and subsurface engineering activities and the lack of integration between TEA and LCA. By constructing data-enriched reduced-order models&nbsp;(ROMs) using machine learning algorithms that accurately predict reservoir performance, I combine these ROMs with process-level mass and energy balance estimates to create an integrated platform for unified the TEA and LCA evaluations. This end-to-end integration quantifies economic and environmental outcomes concurrently, clarifying the socio-economic trade-offs of the emerging geo-energy technological innovations. The GESM toolkit has already been deployed at industrial scale to assess geological carbon utilization and storage activities, such as CO<sub>2</sub>-enhanced oil recovery&nbsp;(CO<sub>2</sub>-EOR), CO<sub>2</sub>-enhanced shale-gas recovery&nbsp;(CO<sub>2</sub>-ESGR), and CO<sub>2</sub>-enhanced coal-bed-methane recovery&nbsp;(CO<sub>2</sub>-ECBM), as well as enhanced geothermal systems and underground hydrogen storage.
   </p>
-
-  <!-- Cluster-1 figure, centred with caption -->
-  <div style="text-align:center; margin:1rem 0;">
-    <figure style="display:inline-block; margin:0;">
-      <img src="{{ '/images/cluster1_fig.jpg' | relative_url }}"
-           alt="Schematic Overview of GESM"
-           style="max-width:80%; height:auto; display:block;">
-      <figcaption style="margin-top:0.5rem; text-align:center;">
-        <em>Schematic Overview of GESM</em>
-      </figcaption>
-    </figure>
-  </div>
+<!-- Cluster-1 figure, centred with caption -->
+<figure style="margin:1rem auto; max-width:80%; text-align:center;">
+  <img src="{{ '/images/cluster1_fig.jpg' | relative_url }}"
+       alt="Schematic Overview of GESM"
+       style="width:100%; height:auto; display:block;">
+  <figcaption style="margin-top:0.5rem; text-align:center;">
+    <em>Schematic Overview of GESM</em>
+  </figcaption>
+</figure>
 </details>
+
+
 
 
 
