@@ -157,7 +157,7 @@ See the full, automatically updated list on
 
 <details>
   <summary><strong>Conference Proceedings</strong></summary>
-<br><br>
+<br>
   <p><strong>[C15]</strong> <strong>Ma, H.</strong>, Zhu, Y., Long, W., Masnadi, M., Heath, G., Balcombe, P., Ravikumar, A. P. <strong>(2025)</strong> Measurement-informed, geospatial life-cycle GHG emissions of global liquefied-natural-gas supply chains. ACS Spring 2025, San Diego, CA, USA, Mar 23-27.</p>
 
   <p><strong>[C14]</strong> Xue, Z., <strong>Ma, H.</strong>, Chen, Z. <strong>(2024)</strong> Combining geothermal-energy recovery and carbon sequestration in EGS using different working fluids. AGU 24, Washington, D.C., USA, Dec 9-13.</p>
