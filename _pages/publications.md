@@ -175,7 +175,7 @@ Retrieve the full publication list on [Google Scholar](https://scholar.google.ca
 
   <p>[C7] Xue, Z., <strong>Ma, H.</strong>, Chen, Z. (2024) Integration of geothermal-energy recovery and carbon sequestration in an EGS by CO<sub>2</sub>-water mixtures. SPE Western Regional Meeting, Palo Alto, CA, USA, Apr 16-18.</p>
 
-  <p>[C6] <strong>Ma, H.</strong>, Yang, Y., Xue, Z., Chen, Z. (2023) Techno-economic feasibility of CO<sub>2</sub> storage associated with enhanced coal-bed-methane production: Mannville coal case study. CSChE 2023, Calgary, Canada, Oct 29 – Nov 1.</p>
+  <p>[C6] <strong>Ma, H.</strong>, Yang, Y., Xue, Z., Chen, Z. (2023) Techno-economic feasibility of CO<sub>2</sub> storage associated with enhanced coal-bed-methane production: Mannville coal case study. CSChE 2023, Calgary, Canada, Oct 29–Nov 1.</p>
 
   <p>[C5] Song, Y., Song, Z., Meng, Y., <strong>Ma, H.</strong>, Chen, Z., Zhang, Y., Zhang, L., Feng, D. (2023) Effect of CO<sub>2</sub> dissolution on fluid flow and phase behaviour in oil-water systems in shale reservoirs. URTeC, Denver, CO, USA, Jun 13-15.</p>
 
