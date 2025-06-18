@@ -53,7 +53,7 @@ My research systematically incorporates machine-learning algorithms and multisca
 
 
 <details class="accordion">
-  <summary><strong>Cluster&nbsp;1: Integrated System Modeling Tool</strong></summary>
+  <summary><strong>Theme&nbsp;1: Integrated Geo-Energy System Modeling and Analysis</strong></summary>
 
   <p>
     I lead efforts to develop a Geo-Energy System Modeling&nbsp;(GESM) toolkit that addresses two key knowledge gaps: the disconnect between simulations of surface and subsurface engineering activities and the lack of integration between TEA and LCA. By constructing data-enriched reduced-order models&nbsp;(ROMs) using machine learning algorithms that accurately predict reservoir performance, I combine these ROMs with process-level mass and energy balance estimates to create an integrated platform for unified the TEA and LCA evaluations. This end-to-end integration quantifies economic and environmental outcomes concurrently, clarifying the socio-economic trade-offs of the emerging geo-energy technological innovations. The GESM toolkit has already been deployed at industrial scale to assess geological carbon utilization and storage activities, such as CO<sub>2</sub>-enhanced oil recovery&nbsp;(CO<sub>2</sub>-EOR), CO<sub>2</sub>-enhanced shale-gas recovery&nbsp;(CO<sub>2</sub>-ESGR), and CO<sub>2</sub>-enhanced coal-bed-methane recovery&nbsp;(CO<sub>2</sub>-ECBM), as well as enhanced geothermal systems and underground hydrogen storage.
@@ -75,7 +75,7 @@ My research systematically incorporates machine-learning algorithms and multisca
 
 
 <details class="accordion">
-  <summary><strong>Cluster 2: Measurement-Informed Life Cycle Assessment</strong></summary>
+  <summary><strong>Theme 2: Geospatial Measurement-Informed Carbon Accounting and Management</strong></summary>
   <p>I developed a Geospatial Measurement-Informed Life Cycle Assessment (GMLCA) framework that leverages both bottom-up and top-down methane emission data acquired from multiscale remote sensing techniques. Addressing the communication gap between measurement-based methane inventories and national greenhouse gas emission inventories (GHGEI), this framework reconciles discrepancies by explicitly accounting for the intermittent emissions from super-emitters captured in top-down aerial surveys of global LNG supply chains. By applying GMLCA, I concluded that the GHG emissions of the international LNG trade were underestimated by up to 33% in 2023. This framework is now being extended to the blue hydrogen supply chains associated with steam methane reforming (SMR).</p>
   
 <!-- Cluster-2 figure, centred with caption -->
