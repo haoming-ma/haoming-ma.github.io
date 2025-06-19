@@ -10,7 +10,7 @@ Dr. Haoming Ma is a **staff scientist** and **principal investigator** at th
 
 Dr. Ma received his **Ph.D.** in [Chemical and Petroleum Engineering](https://schulich.ucalgary.ca/chemical-petroleum/home) from the **University of Calgary** in 2023, supervised by Profs. [Zhangxin Chen](https://scholar.google.ca/citations?user=LWXGc90AAAAJ&hl=en) and [Sean T. McCoy](https://scholar.google.fr/citations?user=puoY4D8AAAAJ&hl=en). He holds an **M.Sc.** in Computer and Information Technology from the **University of Pennsylvania** and an **M.Sc.** in Energy Policy and Management from the [Department of Energy and Mineral Engineering](https://www.eme.psu.edu/) at the **Penn State University**, where he also earned a **B.Sc.** in Energy Engineering with two minors in Energy Business & Finance and Environmental Engineering.
 
-Toward a Secure, Affordable, and Sustainable Geo‑Energy Future
+Toward an Affordable and Sustainable Geo‑Energy Future
 ======
 <!-- ▸ Research Areas image + description side-by-side -->
 <div style="display:flex; gap:1.5rem; justify-content:center; align-items:center; flex-wrap:wrap;">
