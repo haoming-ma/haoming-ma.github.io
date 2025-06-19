@@ -36,7 +36,7 @@ Education
 Selected Awards
 ======
 * Best Paper Award, Frontiers in Energy, 2024
-* SPE Canadian Educational Foundation General Scholarship, Society of Petroleum Engineers Educational Foundation, 2024
+* SPE Canadian Educational Foundation General Scholarship, SPE Educational Foundation, 2023
 * Alberta Graduate Excellence Scholarship, Province of Alberta, 2022
 * Chemical & Petroleum Engineering Graduate Excellence Award, University of Calgary, 2022
 * Outstanding Graduate Teaching Assistant Award, Penn State University, 2018
