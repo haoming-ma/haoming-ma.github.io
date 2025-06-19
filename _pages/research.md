@@ -91,17 +91,4 @@ My research systematically incorporates machine-learning algorithms and multisca
 
 
 
-<script>
-document.addEventListener('DOMContentLoaded', () => {
-  const accordions = document.querySelectorAll('details.accordion');
-  accordions.forEach((acc) => {
-    acc.addEventListener('toggle', () => {
-      if (acc.open) {
-        accordions.forEach((other) => {
-          if (other !== acc) other.open = true;
-        });
-      }
-    });
-  });
-});
-</script>
+
