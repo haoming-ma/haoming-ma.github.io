@@ -27,7 +27,7 @@ Professional Appointment
 
 Education
 ======
-* Ph.D in Chemical & Petroleum Engineering, University of Calgary, 2023
+* Ph.D. in Chemical & Petroleum Engineering, University of Calgary, 2023
 * M.Sc. in Computer Information & Technology, University of Pennsylvania, 2025
 * M.Sc. in Energy & Mineral Engineering option in Energy Management & Policy, Penn State University, 2019
 * B.Sc. in Energy Engineering, Penn State University, 2018
