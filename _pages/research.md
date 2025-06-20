@@ -53,7 +53,7 @@ Dr. Ma's research systematically incorporates machine-learning algorithms and mu
 
 
 <details class="accordion">
-  <summary><strong>Theme&nbsp;1: Integrated Geo-Energy System Modeling and Analysis</strong></summary>
+  <summary><strong>Theme&nbsp;1: Holistic Geo-Energy System Modeling and Analysis</strong></summary>
 
   <p>
     Dr. Ma lead efforts to develop a first-of-its-kind Geo-Energy System Modeling&nbsp;(GESM) toolkit that addresses two key knowledge gaps within the geo-energy system analysis domain: the disconnections between simulating surface and subsurface engineering activities and the lack of integration between TEA and LCA. By constructing data-enriched reduced-order models&nbsp;(ROMs) using machine learning algorithms that accurately predict reservoir technical performance, his work compiled these ROMs with process-level TEA and LCA estimates to evaluate the socio-economic trade-offs of the emerging geo-energy technological innovations. The GESM toolkit has already been deployed to assess industrial-scale geological carbon utilization and storage activities, such as CO<sub>2</sub>-enhanced oil recovery&nbsp;(CO<sub>2</sub>-EOR), CO<sub>2</sub>-enhanced shale-gas recovery&nbsp;(CO<sub>2</sub>-ESGR), and CO<sub>2</sub>-enhanced coal-bed-methane recovery&nbsp;(CO<sub>2</sub>-ECBM), as well as enhanced geothermal systems and underground hydrogen storage.
