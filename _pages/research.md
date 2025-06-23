@@ -4,7 +4,13 @@ title:  "Research"
 permalink: /research/
 author_profile: true
 ---
-Dr. Ma's research systematically incorporates machine-learning algorithms and multiscale measurement techniques for developing geo-energy system modeling and analysis tools, coupling numerical methods with techno-economic analysis (TEA) and life cycle assessment (LCA) to enable the industrial-scale deployment of sustainable geo-energy extraction.
+Dr. Ma's research incorporates artificial intilligence (AI) capabilities and multiscale remote sensing emission measurement techniques (e.g., from satellites to aircraft to ground-based sensors) for geo-energy system analysis, coupling numerical methods with techno-economic analysis (TEA) and life cycle assessment (LCA) to enable the industrial-scale deployment of sustainable geo-energy extraction. 
+
+Specifically, he established two research themes as outlined below with broader applications in following areas: 
+* Geological carbon utilization and storage
+* Methane emission quantification throughout geo-energy supply chains
+* Underground hydrogen recovery and storage
+* Enhanced geothermal systems
 
 
 <!-- ▸ Video + “Research Keywords” figure, equal heights & perfectly centered captions -->
