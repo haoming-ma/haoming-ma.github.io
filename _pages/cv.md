@@ -9,6 +9,8 @@ redirect_from:
 
 {% include base_path %}
 
+Download the public version of my CV [here]
+
 Professional Appointment
 ======
 * 2025.04 to Present: Staff Research Scientist / Principal Investigator
