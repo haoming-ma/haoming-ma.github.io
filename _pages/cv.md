@@ -9,7 +9,8 @@ redirect_from:
 
 {% include base_path %}
 
-Download the public version of my CV [here]
+Download the public version of my CV
+<a href="{{ '/files/CV_public.pdf' | relative_url }}" target="_blank" rel="noopener">[here]</a>.
 
 Professional Appointment
 ======
