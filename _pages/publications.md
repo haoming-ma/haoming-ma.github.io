@@ -16,9 +16,9 @@ Retrieve full publication list on [Google Scholar](https://scholar.google.ca/cit
 <details class="pub-year" open>
 <summary><strong>2025</strong></summary>
 
-  <p>
-  <a href="{{ '/files/J18.pdf' | relative_url }}" target="_blank" rel="noopener">[J18]</a>
-  <strong>Ma, H.</strong>, Lu, Y.*, Kou, Z., Xue, Z.*, Zhang, K., Deng, P., Di, C., Chen, Z., “The Role of Cybersecurity and Cyber-Attacks in the Natural Gas and Hydrogen Industry.” <em>Gas Science and Engineering</em> in press.
+<p>
+<a href="{{ '/files/J18.pdf' | relative_url }}" target="_blank" rel="noopener">[J18]</a>
+<strong>Ma, H.</strong>, Lu, Y.*, Kou, Z., Xue, Z.*, Zhang, K., Deng, P., Di, C., Chen, Z., “Cybersecurity and Cyber-Attacks in the Growing Natural Gas and Hydrogen Industry: A Systematic Review of Challenges and Opportunities.” <em>Gas Science and Engineering</em> in press.
 </p>
   
 <p>
