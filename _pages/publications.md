@@ -5,7 +5,7 @@ permalink: /publications/
 author_profile: true
 ---
 
-As of **June 2025**, Dr. Ma has authored or co-authored **18** peer-reviewed journal articles (including **10** as first or corresponding author) and **15** conference proceedings; his work has been cited **~400** times, with an h-index of **11**.
+As of **August 2025**, Dr. Ma has authored or co-authored **19** peer-reviewed journal articles (including **11** as first or corresponding author) and **15** conference proceedings; his work has been cited **~450** times, with an h-index of **11**.
 
 Retrieve full publication list on [Google Scholar](https://scholar.google.ca/citations?user=AcM1KMkAAAAJ&hl=en).
 
@@ -18,7 +18,7 @@ Retrieve full publication list on [Google Scholar](https://scholar.google.ca/cit
 
 <p>
 <a href="{{ '/files/J18.pdf' | relative_url }}" target="_blank" rel="noopener">[J18]</a>
-<strong>Ma, H.</strong>, Lu, Y.*, Kou, Z., Xue, Z.*, Zhang, K.*, Deng, P., Di, C., Zhu, Y., Wang, H., Chen, Z., “Cybersecurity and Cyber-Attacks in the Growing Natural Gas and Hydrogen Industry: A Systematic Review of Challenges and Opportunities.” <em>Gas Science and Engineering</em> in press.
+<strong>Ma, H.</strong>, Lu, Y.*, Kou, Z., Xue, Z.*, Zhang, K.*, Deng, P., Di, C., Zhu, Y., Wang, H., Chen, Z., “Cybersecurity and Cyber-Attacks in the Growing Natural Gas and Hydrogen Industry: A Systematic Review of Challenges and Opportunities.” <em>Gas Science and Engineering</em> 143：205744.
 </p>
   
 <p>
