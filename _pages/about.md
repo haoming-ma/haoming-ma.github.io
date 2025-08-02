@@ -47,4 +47,4 @@ He is particularly interested in the following topics:
 
 Through this interdisciplinary effort, he delivers technical, socioeconomic, and policy insights that advance a secure, affordable, and sustainable energy future.
 
-<strong><em>Last Update: June 2025</em></strong>
+<strong><em>Last Update: August 2025</em></strong>
