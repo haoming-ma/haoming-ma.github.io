@@ -198,4 +198,16 @@ Retrieve full publication list on [Google Scholar](https://scholar.google.ca/cit
   <p>[C1] Liu, H.*, Cui, L., Liu, Z., Zhou, C., Yao, M., <strong>Ma, H.</strong>, Liu, Q. (2022) Machine-learning optimisation of well-stimulation design in heterogeneous naturally fractured tight reservoirs. SPE Canadian Energy Technology Conference, Calgary, Canada, Mar 16-17.</p>
 </details>
 
+---
+
+<details>
+  <summary><h2 style="display:inline;">Non Peer-reviewed Preprints</h2></summary>
+<br>
+<p>
+  <a href="{{ '/files/preprint1.pdf' | relative_url }}" target="_blank" rel="noopener">[Preprint]</a>
+  <strong>Ma, H.</strong>, Zhu, Y., Long, W., Masnadi, M., Heath, G. A., Balcombe, P., George, F., Roman-White, S., Ravikumar, A.P.*, Probabilistic, Measurement-Informed Greenhouse Gas Emissions from Global Liquefied Natural Gas Supply Chains Reveal Wide Country-Level Variation
+  </p>
+</details>
+
+
 [Note: * denotes corresponding author]
