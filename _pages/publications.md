@@ -205,7 +205,7 @@ Retrieve full publication list on [Google Scholar](https://scholar.google.ca/cit
 <br>
 <p>
   <a href="{{ '/files/preprint1.pdf' | relative_url }}" target="_blank" rel="noopener">[Preprint]</a>
-  <strong>Ma, H.</strong>, Zhu, Y., Long, W., Masnadi, M., Heath, G. A., Balcombe, P., George, F., Roman-White, S., Ravikumar, A.P.*, Probabilistic, Measurement-Informed Greenhouse Gas Emissions from Global Liquefied Natural Gas Supply Chains Reveal Wide Country-Level Variation
+  <strong>Ma, H.</strong>, Zhu, Y., Long, W., Masnadi, M., Heath, G. A., Balcombe, P., George, F., Roman-White, S., Ravikumar, A.P.*, (2025) Probabilistic, Measurement-Informed Greenhouse Gas Emissions from Global Liquefied Natural Gas Supply Chains Reveal Wide Country-Level Variation
   </p>
 </details>
 
