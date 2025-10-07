@@ -18,7 +18,7 @@ Retrieve full publication list on [Google Scholar](https://scholar.google.ca/cit
 
 <p>
 <a href="{{ '/files/J19.pdf' | relative_url }}" target="_blank" rel="noopener">[J19]</a>
-<strong>Ma, H.</strong>, Nabil, S. K., An, K.*, Nishikawa, E., Kibria, M. G., Bergerson, J. A., Chen, Z., McCoy, S. T.*, “One- or two-step processes: which have a lower GHG impact for production of synthetic aviation fuel via indirect CO2 electrolysis?” <em>Carbon Capture Science & Technology</em>. In press
+<strong>Ma, H.</strong>, Nabil, S. K., An, K.*, Nishikawa, E., Kibria, M. G., Bergerson, J. A., Chen, Z., McCoy, S. T.*, “One- or two-step processes: which have a lower GHG impact for production of synthetic aviation fuel via indirect CO2 electrolysis?” <em>Carbon Capture Science & Technology</em>. 17:100477
 </p>
 
 <p>
