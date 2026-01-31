@@ -12,6 +12,15 @@ Retrieve full publication list on [Google Scholar](https://scholar.google.ca/cit
 ---
 
 ## Journal Articles
+<details class="pub-year" open>
+<summary><strong>2026</strong></summary>
+
+<p>
+<a href="{{ '/files/J20.pdf' | relative_url }}" target="_blank" rel="noopener">[J20]</a>
+Di, C., Tian, F., Zhao, L., Deng, P., <strong>Ma, H.</strong>, Liu, B., Peng, L., Chen, Z.*, Cooling Effects on Capillary Sealing in CO₂-Plume Geothermal Systems: Capillary Pressure Modeling and Leakage Assessment, in Press, Environmental Science & Technology
+  
+</p>
+</details>
 
 <details class="pub-year" open>
 <summary><strong>2025</strong></summary>
