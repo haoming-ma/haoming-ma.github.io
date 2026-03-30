@@ -20,6 +20,7 @@ Retrieve full publication list on [Google Scholar](https://scholar.google.ca/cit
 Yang, J., Yang, J., Chang, K., Lyu C., <strong>Ma, H.</strong>, Cheng Q.*, Luo, Z.*, Techno-economic optimization of a modular PEM electrolysis system for distributed hydrogen production. Applied Energy. 2026;413.
 </p>
 
+<p>
 <a href="{{ '/files/J20.pdf' | relative_url }}" target="_blank" rel="noopener">[J20]</a>
 Di, C., Tian, F., Zhao, L., Deng, P., <strong>Ma, H.</strong>, Liu, B., Peng, L., Chen, Z.*, Cooling Effects on Capillary Sealing in CO₂-Plume Geothermal Systems: Capillary Pressure Modeling and Leakage Assessment, Environmental Science & Technology, 60(8), 6149-6161.
   
