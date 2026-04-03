@@ -5,7 +5,7 @@ permalink: /publications/
 author_profile: true
 ---
 
-As of **January 2026**, Dr. Ma has authored or co-authored **20** peer-reviewed journal articles (including **11** as first or corresponding author) and **20** conference proceedings; his work has been cited **~550** times, with an h-index of **12**.
+As of **January 2026**, Dr. Ma has authored or co-authored **22** peer-reviewed journal articles, such as in Nature Comminications, Environmental Science & Technology, Renewable and Sustainable Energy Reviews, Applied Ennergy, Energy Conversion and Management, and Energy and **20** conference proceedings; his work has been cited **~550** times, with an h-index of **12**.
 
 Retrieve full publication list on [Google Scholar](https://scholar.google.ca/citations?user=AcM1KMkAAAAJ&hl=en).
 
