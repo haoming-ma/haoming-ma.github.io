@@ -27,7 +27,7 @@ Di, C., Tian, F., Zhao, L., Deng, P., <strong>Ma, H.</strong>, Liu, B., Peng, L.
 </p>
 </details>
 
-<details class="pub-year" open>
+<details class="pub-year">
 <summary><strong>2025</strong></summary>
 
 <p>
