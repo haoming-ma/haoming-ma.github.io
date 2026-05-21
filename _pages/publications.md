@@ -15,7 +15,7 @@ Retrieve full publication list on [Google Scholar](https://scholar.google.ca/cit
 <details class="pub-year" open>
 <summary><strong>2026</strong></summary>
 <p>
-<a href="{{ '/files/J22.pdf' | relative_url }}" target="_blank" rel="noopener">[J21]</a>
+<a href="{{ '/files/J22.pdf' | relative_url }}" target="_blank" rel="noopener">[J22]</a>
 Xue, Z., Bi, J., <strong>Ma, H.</strong>, Sun, Z., Chen, Z.*, A robust physics-constrained neural operator framework for efficient geothermal resource development. Nature Communications. 2026.
 </p>
   
