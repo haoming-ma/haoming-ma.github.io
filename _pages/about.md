@@ -27,7 +27,7 @@ Toward an Affordable and Sustainable Geo‑Energy Future
   <div style="flex:1 1 360px; max-width:45%; font-size:1rem; line-height:1.5;">
     Dr. Ma&rsquo;s research interest lies in developing
     <strong>Geo-Energy System Modeling and Analysis platform</strong> powered by
-    machine learning tools and multiscale remote-sensing data. His work facilitates a clearer understanding of the complex financial and environmental benefits and <strong>trade-offs</strong> of the geo-energy systems.
+    AI methods and multiscale remote sensing data. His work facilitates a clearer understanding of the complex financial and environmental benefits and <strong>trade-offs</strong> of the geo-energy systems.
   </div>
 
 </div>
@@ -39,10 +39,10 @@ He is particularly interested in the following topics:
 
 - **Methane emissions** across geo-energy supply chains
 
-- Subsurface **hydrogen** resources including extraction and storage
+- Geological **hydrogen** resources including production and storage
 
 - Enhanced **geothermal** systems
 
 Through this interdisciplinary effort, he delivers technical, socioeconomic, and policy insights that advance a secure, affordable, and sustainable energy future.
 
-<strong><em>Last Update: August 2025</em></strong>
+<strong><em>Last Update: June 2026</em></strong>
