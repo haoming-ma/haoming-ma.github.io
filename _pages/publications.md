@@ -17,7 +17,7 @@ Retrieve full publication list on [Google Scholar](https://scholar.google.ca/cit
 <summary><strong>2026</strong></summary>
 <p>
 <a href="{{ '/files/J24.pdf' | relative_url }}" target="_blank" rel="noopener">[J24]</a>
-Deng, P., Chen, Z.*, Peng, X., Di, C., <strong>Ma, H.</strong>, Wang, C., Xue, Z., Peng, L., (2026). Enabling Large-Scale Underground Hydrogen Storage in Aquifer-Driven Reservoirs: Integrated Technology and Economic Feasibility. 424:128476, <span style="color: blue;"><em>Applied Energy</em></span>.
+Deng, P., Chen, Z.*, Peng, X., Di, C., <strong>Ma, H.</strong>, Wang, C., Xue, Z., Peng, L., (2026). Enabling Large-Scale Underground Hydrogen Storage in Aquifer-Driven Reservoirs: Integrated Technology and Economic Feasibility. 424: 128476, <span style="color: blue;"><em>Applied Energy</em></span>.
 </p>
   
 <p>
