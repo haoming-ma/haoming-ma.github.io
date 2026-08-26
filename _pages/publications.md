@@ -32,7 +32,7 @@ Xue, Z., Bi, J., <strong>Ma, H.</strong>, Sun, Z., Chen, Z.*, (2026). A robust p
 
 <p>
 <a href="{{ '/files/J21.pdf' | relative_url }}" target="_blank" rel="noopener">[J21]</a>
-Yang, J., Yang, J., Chang, K., Lyu C., <strong>Ma, H.</strong>, Cheng, Q.*, Luo, Z.*, (2026). Techno-economic optimization of a modular PEM electrolysis system for distributed hydrogen production. <span style="color: blue;"><em>Applied Energy</em></span>. 413; 127759.
+Yang, J., Yang, J., Chang, K., Lyu C., <strong>Ma, H.</strong>, Cheng, Q.*, Luo, Z.*, (2026). Techno-economic optimization of a modular PEM electrolysis system for distributed hydrogen production. <span style="color: blue;"><em>Applied Energy</em></span>. 413: 127759.
 </p>
 
 <p>
